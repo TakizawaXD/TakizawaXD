@@ -31,7 +31,7 @@
 
 - 📫 Feel free to reach me out **andresmontalvo2222@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Takizawa](https://discordapp.com/users/1105995364764491837) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Andres](https://discordapp.com/users/1105995364764491837) my user!
 <!--Intro end-->
 
 
