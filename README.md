@@ -71,9 +71,6 @@
 </p>
 
 ---
-
-### 🐍 Contributions Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/mendoza727/mendoza727/output/snake.svg" alt="Snake animation" />
 </div>
