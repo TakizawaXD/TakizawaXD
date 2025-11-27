@@ -1,24 +1,18 @@
-<!-- 🌈 Header gradient -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- 🌈 Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Andres&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Fullstack%20Developer&descSize=27&descAlignY=85&section=header" />
 
-<!-- 👋 Welcome Header -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Andres</h1></summary>
-  </ul>
-</div>
-
-<!-- Typing animation + GIF -->
+<!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer!" />
-  <img align="right" height="170" style="max-width: 100%; height: auto;" " />
 </div>
 
 <!-- Motivational line -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<div align="center">
+  <h3>Confusion is part of Programming</h3>
+</div>
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div>
 
 ---
@@ -30,7 +24,31 @@
 - ☁️ Currently diving deeper into **AWS and cloud computing**
 - 💬 Ask me about **React, Node.js, Firebase, MongoDB, AWS**
 - 📫 Reach me at **andresmontalvo2222@gmail.com**
-- 🏠 Say hi on Discord – [Andres](https://discordapp.com/users/1105995364764491837)
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:andresmontalvo2222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/takisawa.montalvo/profilecard/?igsh=YzJyDF3c2VnYzl1">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  <a href="https://discordapp.com/users/1105995364764491837">
+    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mendoza727">
+    <img src="https://komarev.com/ghpvc/?username=mendoza727&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/mendoza727">
+    <img src="https://img.shields.io/github/followers/mendoza727?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
 
 ---
 
@@ -45,29 +63,21 @@
 ---
 
 ### 📊 GitHub Stats & Trophies
-
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mendoza727&theme=dark&show_icons=true&count_private=true" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendoza727&theme=dark&hide_border=false" />
-
-</td>
-<td width="50%" align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendoza727&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-
-</td>
-</tr>
-</table>
-
 <!-- Trophy -->
 <div align="center">
   <img width="84%" src="https://github-profile-trophy.vercel.app/?username=mendoza727&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </div>
+
+---
+
+### 🧩 Most Used Languages
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TakizawaXD&theme=dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" /></a>
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
 
 ---
@@ -77,19 +87,4 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/takisawa.montalvo/profilecard/?igsh=YzJyDF3c2VnYzl1" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
-  </a>
-  <a href="https://discordapp.com/users/1105995364764491837" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
-  </a>
-</p>
-
----
-
-
-<!-- 🌈 Footer gradient -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
