@@ -49,12 +49,10 @@ I care about clean architecture, maintainable code and products that perform wel
 
 <!-- Cambia REPO_1 y REPO_2 por el nombre real de tus repositorios -->
 <p align="center">
-  <a href="https://github.com/TakizawaXD/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=REPO_1&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
-  </a>
-  <a href="https://github.com/TakizawaXD/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=REPO_2&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
-  </a>
+  <a href="https://github.com/TakizawaXD/uts-duts-plataforma"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=uts-duts-plataforma&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42&cache_seconds=86400" /></a>
+  <a href="https://github.com/TakizawaXD/banking-system-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=banking-system-api&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42&cache_seconds=86400" /></a>
+  <a href="https://github.com/TakizawaXD/CalzadoFlow-Pro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=CalzadoFlow-Pro&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42&cache_seconds=86400" /></a>
+  <a href="https://github.com/TakizawaXD/food-distributor-crm"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=food-distributor-crm&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42&cache_seconds=86400" /></a>
 </p>
 
 <br/>
