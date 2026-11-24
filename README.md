@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mendoza727&color=3a8296&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/mendoza727?style=flat-square&color=3a8296&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=TakizawaXD&color=3a8296&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/TakizawaXD?tab=followers"><img src="https://img.shields.io/github/followers/TakizawaXD?style=flat-square&color=3a8296&label=Followers" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-yes-61DAFB?style=flat-square" />
 </p>
 
@@ -49,11 +49,11 @@ I care about clean architecture, maintainable code and products that perform wel
 
 <!-- Cambia REPO_1 y REPO_2 por el nombre real de tus repositorios -->
 <p align="center">
-  <a href="https://github.com/mendoza727/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendoza727&repo=REPO_1&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
+  <a href="https://github.com/TakizawaXD/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=REPO_1&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
   </a>
-  <a href="https://github.com/mendoza727/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendoza727&repo=REPO_2&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
+  <a href="https://github.com/TakizawaXD/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakizawaXD&repo=REPO_2&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
   </a>
 </p>
 
@@ -62,16 +62,16 @@ I care about clean architecture, maintainable code and products that perform wel
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mendoza727&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendoza727&layout=compact&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&border_color=1f3a42" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TakizawaXD&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&icon_color=3a8296&border_color=1f3a42" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakizawaXD&layout=compact&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&bg_color=091519&title_color=61DAFB&text_color=c9d1d9&border_color=1f3a42" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mendoza727&locale=en&date_format=M%20j%5B%2C%20Y%5D&background=091519&border=1f3a42&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=1f3a42" />
+  <img src="https://streak-stats.demolab.com?user=TakizawaXD&locale=en&date_format=M%20j%5B%2C%20Y%5D&background=091519&border=1f3a42&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=1f3a42" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mendoza727&bg_color=091519&color=61DAFB&line=3a8296&point=ffffff&area=true&area_color=3a8296&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TakizawaXD&bg_color=091519&color=61DAFB&line=3a8296&point=ffffff&area=true&area_color=3a8296&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
